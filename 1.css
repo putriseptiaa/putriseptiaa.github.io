@@ -1,0 +1,22 @@
+.jumbotron {
+    padding-top: 7rem;
+    background-image: url(img/22.png);
+    background-repeat: no-repeat;
+    background-position: 0 -543PX;
+    background-color: rgb(194, 223, 236);
+
+}
+
+#project {
+    background-color: rgb(194, 223, 236);
+}
+
+section {
+    padding-top: 5rem;
+}
+
+.jumbotron p {
+    font-size: 40px;
+}
+
+#about {}
